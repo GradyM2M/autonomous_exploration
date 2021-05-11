@@ -54,3 +54,19 @@ JIEMING CHEN
 
 # References
 Yamauchi, Brian. “A frontier-based approach for autonomous exploration.” Proceedings 1997 IEEE International Symposium on Computational Intelligence in Robotics and Automation CIRA'97. 'Towards New Computational Principles for Robotics and Automation' (1997): 146-151.
+
+
+https://github.com/HAOLI-TUKL/autonomous_exploration  
+
+https://github.com/zwkcoding/autonomous_exploration  
+
+https://github.com/HanwenCao/Frontier_Exploration  
+
+https://github.com/RobustFieldAutonomyLab/em_exploration  
+
+https://github.com/bigmb/Autonomous-Navigation-and-Exploration  
+
+https://github.com/RobustFieldAutonomyLab/turtlebot_exploration_3d  
+
+https://github.com/tpepels/turtlebot_slam  
+
